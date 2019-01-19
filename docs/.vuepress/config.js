@@ -1,7 +1,7 @@
 module.exports = {
   title: 'cplusplus-guide',
   description: 'A blog about C++',
-  base: '/guide/',
+  base: '/cplusplus-guide/',
   head: [
     [
       'link',
