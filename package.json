@@ -1,0 +1,30 @@
+{
+  "name": "cplusplus-guide",
+  "version": "1.0.0",
+  "description": "A perfect recipe for lazy guys.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-cain/cplusplus-guide.git"
+  },
+  "keywords": [
+    "frontend",
+    "javascript"
+  ],
+  "author": "james-cain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-cain/cplusplus-guide/issues"
+  },
+  "homepage": "https://github.com/james-cain/cplusplus-guide#readme",
+  "dependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
